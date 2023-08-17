@@ -1,3 +1,16 @@
+#    _____     _                      _       _____                
+#   |  ___|   (_)                    | |     /  ___|                 
+#   | |__ _ __ ___   ____ _ _ __   __| | ___ \ `--.  ___ _ __   __ _ 
+#   |  __| '__| \ \ / / _` | '_ \ / _` |/ _ \ `--. \/ _ \ '_ \ / _` |
+#   | |__| |  | |\ V / (_| | | | | (_| | (_) /\__/ /  __/ | | | (_| |
+#   \____/_|  |_| \_/ \__,_|_| |_|\__,_|\___/\____/ \___|_| |_|\__,_|
+#      _____ _ __          _____      __  __  _
+#     / ___/(_) /____     / ___/___  / /_/ /_(_)___  ____ ______
+#     \__ \/ / __/ _ \    \__ \/ _ \/ __/ __/ / __ \/ __ `/ ___/
+#    ___/ / / /_/  __/   ___/ /  __/ /_/ /_/ / / / / /_/ (__  )
+#   /____/_/\__/\___/   /____/\___/\__/\__/_/_/ /_/\__, /____/
+#                                                 /____/
+#
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -18,7 +31,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-lang: pt-BR
+lang: pt
 title: Erivando Sena
 description: >- 
   Pensamentos, 
@@ -32,8 +45,8 @@ author:
   name: Erivando Sena
   twitter: erivandosena
   picture: /assets/images/johndoe.png
-logo: /assets/icons/basically-basic-logo-dark.svg  
-# twitter_username: erivandosena
+logo: /assets/icons/basically-basic-logo-dark.svg
+# twitter_username: ""
 github_username:  erivandosena
 email: erivandosena@gmail.com
 search: true
@@ -51,8 +64,6 @@ liquid:
 
 # Build settings
 markdown: kramdown
-#theme: minima
-#theme: jekyll-theme-basically-basic
 remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 plugins:
   - jekyll-feed
@@ -64,7 +75,7 @@ feed:
   path: atom.xml
 
 # Pagination - https://jekyllrb.com/docs/pagination/
-paginate: 10
+paginate: 5
 paginate_path: /page:num/
 
 # Exclude from processing.
@@ -102,6 +113,8 @@ defaults:
     values:
       layout: post
       read_time: true
+      comments: false
+      author: Erivando     # Default author for posts
   # _projects
   - scope:
       path: "_projects"
@@ -109,3 +122,19 @@ defaults:
     values:
       layout: post
       read_time: true
+
+#  Asciidoctor is a fast text processor and publishing toolchain for converting
+#  AsciiDoc content to HTML5, DocBook 5 (or 4.5) and other formats.
+#
+#  https://github.com/asciidoctor/jekyll-asciidoc
+#  https://github.com/asciidoctor
+#
+#
+
+asciidoctor-enabled: false
+asciidoctor:
+  description: 
+  attributes:
+    source-highlighter: coderay
+    coderay-css: style
+    icons: font
