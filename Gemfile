@@ -25,8 +25,13 @@ group :jekyll_plugins do
   gem "jekyll-seo-tag", "~> 2.6"
   gem "jekyll-sitemap"
   gem "jekyll-paginate"
-  gem "jekyll-algolia"
+  gem 'jekyll-algolia', '~> 1.0'
+  gem "jekyll-gist"
+  gem "jekyll-asciidoc"
 end
+
+gem 'asciidoctor', '~> 1.5.4'
+gem 'coderay', '1.1.1'
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
