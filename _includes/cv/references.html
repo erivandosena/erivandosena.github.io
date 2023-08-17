@@ -1,0 +1,28 @@
+{% if cv.references %}
+  <div id="references" class="entry">
+    <header class="entry-header">
+      <h3 class="entry-title">{{ site.data.theme.t.cv_references | default: 'References' }}</h3>
+    </header>
+
+    <div class="entry-content">
+      {% for r in cv.references %}
+        <div class="item">
+          {% if r.reference %}
+            <blockquote class="reference">
+              {{ r.reference |markdownify }}
+              {% if r.name %}
+                <p class="name">
+                  {% if r.linkedin %}
+                    <p class="linkedin"><a href="{{ r.linkedin }}" target="_blank" style="text-decoration: none; color: inherit;"><cite>{{ r.name }}</cite></a></p>
+                  {% else %}
+                    <cite>{{ r.name }}</cite>
+                  {% endif %}
+                </p>
+              {% endif %}
+            </blockquote>
+          {% endif %}
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+{% endif %}
