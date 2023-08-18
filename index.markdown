@@ -4,7 +4,7 @@
 
 layout: home
 paginate: false
-alt_title: "Developer and DevOps"
+alt_title: "Development and DevOps"
 sub_title: "Pensamentos, histórias, ideias e códigos"
 image: /assets/images/amine-ounnas-180287.jpg
 introduction: |
