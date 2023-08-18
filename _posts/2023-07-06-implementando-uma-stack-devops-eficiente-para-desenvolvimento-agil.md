@@ -2,8 +2,8 @@
 layout: post
 title:  "Implementando uma Stack DevOps eficiente para desenvolvimento ágil"
 image: 
-  path: https://media.istockphoto.com/id/1338302761/pt/foto/devops-concept.jpg?s=1024x1024&w=is&k=20&c=S_Wln2dMko3EfxL2x5EiLzSEIWoahCcDHjWuO3RP1w8=
-  thumbnail: https://media.istockphoto.com/id/1338302761/pt/foto/devops-concept.jpg?s=1024x1024&w=is&k=20&c=S_Wln2dMko3EfxL2x5EiLzSEIWoahCcDHjWuO3RP1w8=
+  path: https://images.pexels.com/photos/11035393/pexels-photo-11035393.jpeg
+  thumbnail: https://images.pexels.com/photos/11035393/pexels-photo-11035393.jpeg
 excerpt_separator: "<!--more-->"
 categories:
   - Artigo
