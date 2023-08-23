@@ -8,13 +8,5 @@ alt_title: "Development and DevOps"
 sub_title: "Pensamentos, histórias, ideias e códigos"
 image: /assets/images/amine-ounnas-180287.jpg
 introduction: |
-  Explore as páginas e compartilhe as publicações relevantes em suas redes sociais e grupos de amigos, essa ação proporciona uma ampliação do aprendizado mútuo ao disseminar conhecimento e ideias.
-
-actions:
-  - label: "Contribuição no GitHub"
-    icon: github
-    url: "https://github.com/erivandosena?tab=repositories"
-  - label: "Download CV"
-    icon: pdf
-    url: "./CV-Erivando.Ramos.pdf"
+  O propósito deste site pessoal é compartilhar resultados de experiências da minha jornada, desde os meus primeiros projetos de eletrônica na adolescência até as minhas atividades maker com IoT, pesquisas acadêmicas e científicas, docência, desenvolvimento de software, ciência de dados e DevOps, que compõem meu background profissional e de vida.
 ---
