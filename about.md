@@ -9,6 +9,7 @@ Este website é um ambiente no qual as fronteiras entre Desenvolvimento e DevOps
 Aqui, unimos esforços para moldar nossas trajetórias profissionais, expandir horizontes e enriquecer o cenário tecnológico em constante evolução. 
 
 Trajetória acadêmica:
-[Currículo Lattes CNPq](http://lattes.cnpq.br/3207935358521360)
+[Currículo Lattes CNPq](http://lattes.cnpq.br/3207935358521360)  
 Contribuições acadêmicas e científicas:
 [Google Scholar (Acadêmico)](https://scholar.google.com.br/citations?hl=pt-BR&user=rk-pamMAAAAJ)
+[Page Beacons.ai](https://beacons.ai/erivando)
