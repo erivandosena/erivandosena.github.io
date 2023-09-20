@@ -4,9 +4,7 @@ layout: about
 permalink: /about/
 ---
 
-Este website é um ambiente no qual as fronteiras entre Desenvolvimento e DevOps se diluem. Independentemente de ser estudante, profissional ou entusiasta na área de tecnologia da informação, este espaço foi especialmente concebido para sua apreciação.
-
-Aqui, unimos esforços para moldar nossas trajetórias profissionais, expandir horizontes e enriquecer o cenário tecnológico em constante evolução. 
+Site pessoal com propósito de abordar temas acadêmicos e conteúdos relacionados com DIY (Do It Yourself), IoT, SBC's, Eletrônica, Desenvolvimento Full Stack, DevOps, Data Science, etc...  
 
 Trajetória acadêmica:
 [Currículo Lattes CNPq](http://lattes.cnpq.br/3207935358521360)  
