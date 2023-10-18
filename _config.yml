@@ -33,21 +33,18 @@
 
 lang: pt
 title: Erivando Sena
-description: >- 
-  Pensamentos, 
-  histórias, 
-  ideias 
-  e códigos
+description: >-
+  Pensamentos,  histórias,  ideias  e códigos
 # description: "Pensamentos, histórias, ideias e códigos"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.erivandosena.com.br" # the base hostname & protocol for your site, e.g. http://example.com
 author:
   name: Erivando Sena
   twitter: erivandosena
-  picture: /assets/images/johndoe.png
+  picture: /assets/images/senadevtips_avatar.png
 logo: /assets/icons/basically-basic-logo-dark.svg
 # twitter_username: ""
-github_username:  erivandosena
+github_username: erivandosena
 email: erivandosena@gmail.com
 search: true
 search_full_content: true
@@ -66,10 +63,10 @@ liquid:
 markdown: kramdown
 remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-paginate
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-sitemap
+- jekyll-paginate
 
 feed:
   path: atom.xml
@@ -106,22 +103,22 @@ collections:
 
 # Front Matter Defaults
 defaults:
-  # _posts
-  - scope:
-      path: "_posts"
-      type: posts
-    values:
-      layout: post
-      read_time: true
-      comments: false
-      author: Erivando     # Default author for posts
+# _posts
+- scope:
+    path: "_posts"
+    type: posts
+  values:
+    layout: post
+    read_time: true
+    comments: false
+    author: Erivando # Default author for posts
+- scope:
+    path: "_projects"
+    type: projects
   # _projects
-  - scope:
-      path: "_projects"
-      type: projects
-    values:
-      layout: post
-      read_time: true
+  values:
+    layout: post
+    read_time: true
 
 #  Asciidoctor is a fast text processor and publishing toolchain for converting
 #  AsciiDoc content to HTML5, DocBook 5 (or 4.5) and other formats.
@@ -133,7 +130,7 @@ defaults:
 
 asciidoctor-enabled: false
 asciidoctor:
-  description: 
+  description:
   attributes:
     source-highlighter: coderay
     coderay-css: style
