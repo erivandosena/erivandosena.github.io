@@ -4,7 +4,7 @@ layout: about
 permalink: /about/
 ---
 
-Erivando de Sena Ramos, também conhecido como Erivando Sena, é monolíngue, falando apenas português, e nasceu em 21/03/1976 na região do [Quilombo Serra do Evaristo](http://portal.iphan.gov.br/noticias/detalhes/446/museu-comunitario-recebe-achados-arqueologicos-na-serra-do-evaristo-ce), em Baturité, Ceará, no Nordeste do Brasil. Sua infância foi marcada pela simplicidade, iniciando, aos nove anos de idade, sua contribuição na agricultura familiar, auxiliando seus pais, agricultores semi analfabetos. Nesse contexto, visando um outro futuro, fomentou como autodidata seu interesse por circuitos elétricos e eletrônicos durante a adolescência.
+Erivando de Sena Ramos, também conhecido como Erivando Sena, nascido na região do [Quilombo Serra do Evaristo](http://portal.iphan.gov.br/noticias/detalhes/446/museu-comunitario-recebe-achados-arqueologicos-na-serra-do-evaristo-ce), em Ceará, no Nordeste do Brasil. Sua infância foi marcada pela simplicidade, visando um outro futuro, fomentou como autodidata seu interesse por circuitos elétricos e eletrônicos durante a adolescência.
 
 Concluiu seus estudos primários em instituições públicas de ensino e prosseguiu com sua formação, adquirindo um diploma técnico em Informática, seguido por uma graduação em Análise e Desenvolvimento de Sistemas. Aprofundou seus conhecimentos ao realizar um mestrado acadêmico em Sociobiodiversidade e Tecnologias Sustentáveis e especializações em Ciência de Dados Big Data Analytics e Engenharia DevOps, além de cursar Bacharelado em Estatística.
 
