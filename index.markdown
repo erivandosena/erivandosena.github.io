@@ -5,7 +5,7 @@
 layout: home
 paginate: false
 alt_title: "Development and Data"
-sub_title: "Thoughts, Research, Ideas, and Code"
+sub_title: "Thoughts, Research, Ideas and Code"
 image: /assets/images/amine-ounnas-180287.jpg
 introduction: |
   The purpose of this personal website is to share the outcomes of experiences from my journey in IoT projects, academic and scientific research activities, teaching, software development, data science, and AI.  
